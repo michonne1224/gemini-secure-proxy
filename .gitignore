@@ -1,5 +1,4 @@
-# Node.js modules
+# Node modules
 /node_modules
-
-# Environment variables (Crucial for security)
+# Environment variables
 .env
